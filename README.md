@@ -2,7 +2,7 @@
 
 I like to build things and I am a reasonably curious person.
 
-By the day, I am a Azure Consultant with Microsoft and still learning it bit by bit daily. I am passionate about teaching and a :white_heart: to make the :earth_asia: a bette place. I write about my daring thoughts and ides [here](https://shubhankarnath.com/).
+By the day, I am a Azure Consultant with Microsoft and still learning it, bit-by-bit daily. I am passionate about teaching and a :white_heart: to make the :earth_asia: a bette place. I write about my daring thoughts and ideas [here](https://shubhankarnath.com/).
 
 GitHub is not the only place I drop code in but I dabble here and there. 
 <!--
