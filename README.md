@@ -6,5 +6,5 @@ By the day, I am a SRE with Microsoft and still learning about the tech world, b
 
 GitHub is not the only place I drop code in, but I dabble here and there. 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Shubhankar-Nath&show_icons=true&theme=synthwave&count_private=true&hide=contribs)
-![My Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankar-Nath&langs_count=5&theme=synthwave&layout=compact)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=Shubhankar-Nath&show_icons=true&theme=merko&count_private=true&hide=contribs)
+![My Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankar-Nath&langs_count=5&theme=merko&layout=compact)
